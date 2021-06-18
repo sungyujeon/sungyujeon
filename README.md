@@ -1,4 +1,5 @@
-### Hi there 👋
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sungyujeon&theme=buefy&show_icons=true)](https://github.com/sungyujeon/sungyujeon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungyujeon&theme=buefy&exclude_repo=webContent,WEB,HTML,bootStrap4L&layout=compact)](https://github.com/sungyujeon/sungyujeon)
 
 <!--
 **sungyujeon/sungyujeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
