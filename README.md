@@ -1,3 +1,7 @@
+<div align=right>
+  <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungyujeon"/></a>
+</div>
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sungyujeon&theme=buefy&show_icons=true)](https://github.com/sungyujeon/sungyujeon)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungyujeon&theme=buefy&exclude_repo=webContent,WEB,HTML,bootStrap4L&layout=compact)](https://github.com/sungyujeon/sungyujeon)
 
